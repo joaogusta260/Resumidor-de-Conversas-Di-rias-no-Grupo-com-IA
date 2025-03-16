@@ -1,6 +1,6 @@
 # Resumidor de Conversas Diárias no Grupo
 
-![RESUMIDOR DE GRUPO COM IA]
+![RESUMIDOR DE GRUPO COM IA](RESUMIDOR DE GRUPO COM IA.png)
 
 Este fluxo, desenvolvido em **n8n**, atua como um resumidor inteligente das conversas diárias de um grupo do WhatsApp. Ele coleta todas as mensagens enviadas ao longo do dia, filtra os tópicos mais relevantes e, ao final do dia, envia um resumo consolidado – tudo de forma automática e sem intervenção humana.
 
